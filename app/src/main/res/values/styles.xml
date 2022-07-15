@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="heading" >
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/sk_modernist_bold</item>
+    </style>
+    <style name="heading1" >
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/sk_modernist_bold</item>
+    </style>
+    <style name="accent" >
+        <item name="android:textSize">48sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/sk_modernist_bold</item>
+    </style>
+    <style name="body" >
+        <item name="android:textColor">@color/body</item>
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/sk_modernist_mono</item>
+    </style>
+    <style name="additional_text">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/sk_modernist_regular</item>
+    </style>
+
+</resources>

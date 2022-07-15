@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="main_bg">#FF050B18</color>
+    <color name="icon_bg_1">#1F2430</color>
+    <color name="icon_bg_2">@color/black</color>
+    <color name="additional">#45454D</color>
+    <color name="chip_bg">#1844A9F4</color>
+    <color name="chip_text">#41A0E7</color>
+    <color name="body">#46EEF2FB</color>
 </resources>
